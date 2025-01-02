@@ -1,4 +1,4 @@
-# UAV GROUND STATION v1.0®
+# UAV GROUND STATION v1.0
 
 This project is a **Ground Station Application** for Unmanned Aerial Vehicles (UAVs). It provides a graphical interface to monitor and control UAVs in real-time. The application displays telemetry data, visualizes graphs for altitude and velocity, and includes a live camera feed. It is built using Python and various libraries such as `Tkinter`, `Matplotlib`, and `Pymavlink`.
 
